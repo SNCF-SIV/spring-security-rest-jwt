@@ -1,4 +1,4 @@
-# Spring MVC application with stateless security using JWT
+# Spring MVC application with stateless security using JWT [![Build Status](https://travis-ci.org/SNCF-SIV/spring-security-rest-jwt.svg?branch=master)](https://travis-ci.org/SNCF-SIV/spring-security-rest-jwt)
 
 Inspired by [LynAs' Spring Security JWT REST Stateless](https://github.com/lynas/spring-security-jwt-rest-stateless) and adapted :
 
