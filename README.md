@@ -113,7 +113,7 @@ This is done because here, no JWT signature check is done by the frontend.
 We provided this example in a "REST Backend to RIA Frontend". In this case, the client and the server communicates through HTTPS, and the authenticity of the server is provided by SSL/TLS protocols over HTTP.
 The client then doesn't need to check the signature of the JWT token again.
 
-We highly recommand the use of HTTPS when using JWT !
+We highly recommand the use of HTTPS when using JWT !!
 
 
 ## Why NIMBUS JOSE JWT(instead of jjwt) ?
